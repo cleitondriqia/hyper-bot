@@ -1,0 +1,7 @@
+name: DiscordLink
+main: br.loja.discord.DiscordLinkPlugin
+version: 1.0
+api-version: 1.20
+commands:
+  vincular:
+    description: Vincular conta Discord
